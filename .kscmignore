@@ -1,0 +1,21 @@
+{
+  "RuleSetsByPath": {
+    "": {
+      "RepositoryPath": "",
+      "Directories": [
+        "/Saved",
+        "/DerivedDataCache",
+        "/Binaries",
+        "/Intermediate",
+        "/.git"
+      ],
+      "Files": [],
+      "Extensions": [],
+      "DirectoryNames": [
+        "binaries",
+        "intermediate"
+      ],
+      "Exceptions": []
+    }
+  }
+}

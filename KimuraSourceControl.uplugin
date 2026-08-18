@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.8.3",
+	"FriendlyName": "Kimura SCM",
+	"Description": "Kimura Source Control and Management",
+	"Category": "Source Control",
+	"CreatedBy": "Kimura Software Inc.",
+	"CreatedByURL": "https://www.kimurascm.com",
+	"DocsURL": "https://docs.kimurascm.com",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": true,
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"Installed": false,
+	"SupportedTargetPlatforms": [
+		"Win64"
+	],
+	"Modules": [
+		{
+			"Name": "KimuraSourceControl",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+
+}

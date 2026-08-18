@@ -1,0 +1,33 @@
+# Unreal generated output
+/Binaries/
+/Intermediate/
+/Saved/
+/DerivedDataCache/
+
+# IDE and generated project files
+/.vs/
+/.vscode/
+*.sln
+*.suo
+*.user
+*.userprefs
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.csproj
+*.xcodeproj/
+*.xcworkspace/
+*.xcuserstate
+*.xcuserdata/
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Platform build and packaging artifacts
+/Build/
+*.apk
+*.ipa
+*.obb
+*.app/
+*.dSYM/
