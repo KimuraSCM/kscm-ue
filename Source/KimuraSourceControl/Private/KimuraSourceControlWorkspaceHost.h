@@ -17,7 +17,7 @@ public:
 
 	bool SendCommand(const FString& InCommand, FString& OutResponse, double TimeoutSeconds = 60.0);
 
-	FKimuraVersion Version = FKimuraVersion(0, 8, 3);
+	FKimuraVersion Version = FKimuraVersion(0, 8, 6);
 
 protected:
 

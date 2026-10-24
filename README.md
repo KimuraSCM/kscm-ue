@@ -1,6 +1,6 @@
 # Kimura SCM Unreal Plugin
 
-**Plugin version:** 0.8.3
+**Plugin version:** 0.8.6
 
 This plugin integrates Unreal Engine's Source Control interface with [Kimura SCM](https://www.kimurascm.com). It connects the Unreal Editor to the Kimura SCM command-line bridge (`kscm.exe`) and exposes Kimura workspaces, file status, changelists, history, sync, submit, and related operations.
 
@@ -12,8 +12,6 @@ For Kimura SCM setup and workflow information, see the official [Documentation a
 - Unreal Engine 5.7 or 5.8
 - Kimura SCM installed on the machine running the Editor ([installer](https://www.kimurascm.com/download/))
 - A Kimura SCM server, account, and workspace
-
-It launches the Kimura SCM workspace bridge (`kscm.exe host-workspace`) when the module starts. The installed bridge must be compatible with the plugin version; the plugin rejects bridge versions with a newer major or minor version than it supports.
 
 ## Compatibility
 
