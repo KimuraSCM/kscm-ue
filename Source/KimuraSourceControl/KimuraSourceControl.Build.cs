@@ -10,7 +10,7 @@ public class KimuraSourceControl : ModuleRules
 
 		bUseUnity = false; 
 
-		this.OptimizeCode = CodeOptimization.Never;
+		//this.OptimizeCode = CodeOptimization.Never;
 
 		this.PrivateDependencyModuleNames.AddRange(
 			new string[] {
